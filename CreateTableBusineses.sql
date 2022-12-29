@@ -5,3 +5,6 @@ CREATE TABLE businesses(
 	category_code varchar,
 	country_code char(3));
 	
+CREATE TABLE test(
+	id integer PRIMARY KEY,
+	name varchar);
